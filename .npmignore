@@ -1,7 +1,11 @@
 src/
 tests/
 
+.editorconfig
+.eslintignore
+.eslintrc.cjs
 .gitignore
 .swcrc
 pnpm-lock.yaml
+README.md
 tsconfig.json
