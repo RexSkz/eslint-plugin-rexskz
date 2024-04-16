@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-rexskz",
-  "version": "1.0.0-alpha.3",
+  "version": "1.0.0-alpha.4",
   "description": "A set of ESLint rules, used by myself, WILL NOT accept issues or PRs.",
   "main": "lib/index.js",
   "scripts": {
