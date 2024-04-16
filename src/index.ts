@@ -2,6 +2,16 @@ module.exports = {
   rules: {},
   configs: {
     default: {
+      settings: {
+        react: { version: 'detect' },
+        'import/resolver': {
+          typescript: true,
+        },
+      },
+      env: {
+        browser: true,
+        node: true,
+      },
       extends: [
         'plugin:import/errors',
         'plugin:import/warnings',
