@@ -122,7 +122,7 @@ module.exports = {
         'prefer-const': 2,
         'quotes': [2, 'single', { 'avoidEscape': true, 'allowTemplateLiterals': true }],
         'react/display-name': 0,
-        'react/jsx-boolean-value': 'never',
+        'react/jsx-boolean-value': [2, 'never'],
         'react/jsx-closing-bracket-location': 2,
         'react/jsx-equals-spacing': 2,
         'react/jsx-filename-extension': [2, { 'extensions': ['.jsx', '.tsx'] }],
